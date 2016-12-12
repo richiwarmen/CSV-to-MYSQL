@@ -1,7 +1,11 @@
 # CSV-to-MYSQL
-Create CSV to import in existing database table
+Import CSV and get data for mysql SQL INSERT
 
-No error handler!
-& first row must have column names!
+TODO:
+-- check all rows for right count (coll count must all be equal)
+
+--- add function for adding sql to create table with fields
+--- check fielddata for type data (recognize datatype) int - date - ip -- varchar --
+
 
 
